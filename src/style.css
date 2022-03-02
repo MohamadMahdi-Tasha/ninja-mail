@@ -45,3 +45,19 @@ button {cursor: pointer;}
 .rounded {border-radius: .5rem;}
 .hover-c-white:hover {color: white;}
 .hover-bg-dark-green:hover {background-color: #39805f;}
+
+/*Media Querys*/
+@media (max-width: 807px) {
+    .media-807-w-30 {width: 30%;}
+    .media-807-w-70 {width: 70%;}
+    .media-807-w-50 {width: 50%;}
+}
+
+@media (max-width: 587px) {
+    .media-587-d-none {display: none;}
+    .media-587-w-50 {width: 50%;}
+}
+
+@media (max-width: 323px) {
+    .media-323-w-100 {width: 100%;}
+}
