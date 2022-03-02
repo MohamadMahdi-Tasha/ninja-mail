@@ -1,0 +1,47 @@
+/*Codes by Mahdi Tasha*/
+/*Variables*/
+:root {
+    --green: #4BA87D;
+}
+
+/*Default Styles*/
+button {cursor: pointer;}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Playfair', sans-serif;
+}
+
+/*Styles*/
+.ff-poppins {font-family: 'Poppins', sans-serif;}
+.w-100 {width: 100%;}
+.w-50 {width: 50%;}
+.p-1 {padding: 1rem;}
+.p-dot-5 {padding: .5rem;}
+.d-flex {display: flex;}
+.d-inline-flex {display: inline-flex;}
+.ai-center {align-items: center;}
+.jc-sb {justify-content: space-between;}
+.jc-sa {justify-content: space-around;}
+.jc-center {justify-content: center;}
+.list-style-none {list-style: none;}
+.w-30 {width: 30%;}
+.w-70 {width: 70%;}
+.w-10 {width: 10%;}
+.border-bottom-5-green {border-bottom: 5px solid var(--green);}
+.only-border-bottom-5-green {border-top: none;border-right: none;border-left: none;border-bottom: 5px solid var(--green);}
+.mb-dot-5 {margin-bottom: .5rem;}
+.mb-1 {margin-bottom: 1rem;}
+.bg-none {background-color: unset;}
+.b-none {border: none;}
+.fw-bold {font-weight: bold;}
+.c-white {color: white;}
+.bg-green {background-color: var(--green);}
+.hover-bg-green-a-btn-c-white:hover {background-color: var(--green);}
+.transition {transition: .3s;}
+.cur-p {cursor: pointer;}
+.ov-hidden {overflow: hidden;}
+.rounded {border-radius: .5rem;}
+.hover-c-white:hover {color: white;}
+.hover-bg-dark-green:hover {background-color: #39805f;}
