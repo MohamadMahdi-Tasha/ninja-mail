@@ -75,6 +75,24 @@ button {cursor: pointer;}
 .bg-video-section {background-image: url("img/slash_black.png");}
 .bg-light {background-color: var(--light);}
 .bg-no-repeat {background-repeat: no-repeat;}
+.bg-sect-2 {background-image: url("img/Component 2.png");}
+.mt-minus-28 {margin-top: -28rem;}
+.h-1543 {height: 1543px;}
+.mt-5 {margin-top: 5rem;}
+.p-abs {position: absolute;}
+.bg-img-1 {background-image: url("img/photo1.jpg");}
+.h-100 {height: 100%;}
+.h-50 {height: 50%;}
+.text-decoration-none {text-decoration: none;}
+.bg-img-2 {background-image: url("img/photo 2.jpg");}
+.mr-2 {margin-right: 2rem;}
+.fs-1 {font-size: 1rem;}
+.fs-2-dot-5 {font-size: 2.5rem;}
+.mt-25 {margin-top: 25rem;}
+.mt-20 {margin-top: 20rem;}
+.mt-15 {margin-top: 15rem;}
+.h-30rem {height: 30rem;}
+.shadow {box-shadow: 0 0 30px rgba(0,0,0,.2);}
 
 /*Media Querys*/
 @media (max-width: 1115px) {
