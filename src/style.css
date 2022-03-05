@@ -45,6 +45,7 @@ button {cursor: pointer;}
 .rounded {border-radius: .5rem;}
 .hover-c-white:hover {color: white;}
 .hover-bg-dark-green:hover {background-color: #39805f;}
+.p-fixed {position:fixed;}
 
 /*Media Querys*/
 @media (max-width: 807px) {
