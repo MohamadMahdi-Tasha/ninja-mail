@@ -133,6 +133,7 @@ button {cursor: pointer;}
     .media-587-w-30 {width: 30%;}
     .show-on-587 {display: block;}
     .media-587-mt-10 {margin-top: 24rem;}
+    .media-587-mt-1 {margin-top: 1rem;}
 }
 
 @media (max-width: 323px) {.media-323-w-100 {width: 100%;}}
