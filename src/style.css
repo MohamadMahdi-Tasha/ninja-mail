@@ -64,6 +64,13 @@ button {cursor: pointer;}
 .fw-normal {font-weight: normal;}
 .show-on-587 {display: none;}
 .mt-dot-5 {margin-top: .5rem;}
+.flex-d-c {flex-direction: column;}
+.bg-img-download {background-image: url("img/VIDEO (image).jpg");}
+.h-40rem {height: 50rem;}
+.h-20rem {height: 20rem;}
+.bg-white {background-color:white;}
+.w-20 {width: 20%;}
+.hover-bg-darker-white:hover {background-color: #c9c9c9;}
 
 /*Media Querys*/
 @media (max-width: 1115px) {
