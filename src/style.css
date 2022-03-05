@@ -10,7 +10,8 @@ button {cursor: pointer;}
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Playfair', sans-serif;
+    font-family: 'Playfair Display', sans-serif;
+    outline: none;
 }
 
 /*Styles*/
@@ -46,6 +47,20 @@ button {cursor: pointer;}
 .hover-c-white:hover {color: white;}
 .hover-bg-dark-green:hover {background-color: #39805f;}
 .p-fixed {position:fixed;}
+.bg-img-first-section {background-image: url("img/Bg Of First Section.png");}
+.bg-cover {background-size: cover;}
+.jc-end {justify-content: end;}
+.fs-59 {font-size: 59px;}
+.mr-dot-5 {margin-right: .5rem;}
+.z-index-2 {z-index: 2;}
+.z-index-1 {z-index: 1;}
+.w-90 {width: 90%;}
+.ml-minus-4 {margin-left: -4rem;}
+.c-green {color: var(--green);}
+.b-1-green {border: 1px solid var(--green);}
+.hover-bg-green-c-white:hover {background-color: var(--green);color: white;}
+.mb-1 {margin-bottom: 1rem;}
+.fw-normal {font-weight: normal;}
 
 /*Media Querys*/
 @media (max-width: 807px) {
