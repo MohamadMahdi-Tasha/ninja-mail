@@ -98,6 +98,4 @@ button {cursor: pointer;}
     .show-on-587 {display: block;}
 }
 
-@media (max-width: 323px) {
-    .media-323-w-100 {width: 100%;}
-}
+@media (max-width: 323px) {.media-323-w-100 {width: 100%;}}
