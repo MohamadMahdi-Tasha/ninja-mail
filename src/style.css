@@ -93,6 +93,21 @@ button {cursor: pointer;}
 .mt-15 {margin-top: 15rem;}
 .h-30rem {height: 30rem;}
 .shadow {box-shadow: 0 0 30px rgba(0,0,0,.2);}
+.d-grid {display: grid;}
+.grid-col-3 {grid-template-columns: repeat(3, 1fr);}
+.gap-col-2 {column-gap: 2rem;}
+.sec3-img1 {background-image: url("img/sec3 img1.jpg");}
+.sec3-img2 {background-image: url("img/sec3 img2.jpg");}
+.sec3-img3 {background-image: url("img/sec3 img3.jpg");}
+.ai-start {align-items: start;}
+.h-239px {height: 230px;}
+.mt-minus-33 {margin-top: -33rem;}
+.ta-center {text-align: center;}
+.fs-2 {font-size: 2rem;}
+.border-1-light {border: 1px solid #9F9F9F;}
+.rounded {border-radius: 5px;}
+.hover-bg-little-dark:hover {background-color: #d9d9d9;}
+.focus-bg-little-dark:focus {background-color: #d9d9d9;border: 1px solid #7d7d7d;}
 
 /*Media Querys*/
 @media (max-width: 1115px) {
