@@ -114,6 +114,7 @@ button {cursor: pointer;}
 .c-black {color: black;}
 .bt-1-light {border-top: 1px solid #DBDBDB;}
 .p-2 {padding: 2rem;}
+.mr-1 {margin-right: 1rem;}
 
 /*Media Querys*/
 @media (max-width: 1115px) {
@@ -146,6 +147,13 @@ button {cursor: pointer;}
     .media-791-grid-col-2-item {grid-column: span 2;}
     .media-791-gap {gap: .5rem;}
     .media-791-mt-minus-3 {margin-top: 3rem;}
+    .media-791-d-grid {display: grid;}
+    .media-791-gap {gap: 1rem;}
+    .media-791-m-0 {margin: 0;}
+    .media-791-jc-start {justify-content: start;}
+    .media-791-ai-start {align-items: start;}
+    .media-791-only-bottom-and-top-1 {margin: 1rem 0 1rem 0;}
+    .media-791-p-0 {padding: 0;}
 }
 
 @media (max-width: 587px) {
