@@ -111,6 +111,9 @@ button {cursor: pointer;}
 .mb-2 {margin-bottom: 2rem;}
 .mb-4 {margin-bottom: 4rem;}
 .p-3 {padding: 3rem;}
+.c-black {color: black;}
+.bt-1-light {border-top: 1px solid #DBDBDB;}
+.p-2 {padding: 2rem;}
 
 /*Media Querys*/
 @media (max-width: 1115px) {
