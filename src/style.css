@@ -108,6 +108,8 @@ button {cursor: pointer;}
 .rounded {border-radius: 5px;}
 .hover-bg-little-dark:hover {background-color: #d9d9d9;}
 .focus-bg-little-dark:focus {background-color: #d9d9d9;border: 1px solid #7d7d7d;}
+.mb-2 {margin-bottom: 2rem;}
+.mb-4 {margin-bottom: 4rem;}
 
 /*Media Querys*/
 @media (max-width: 1115px) {
